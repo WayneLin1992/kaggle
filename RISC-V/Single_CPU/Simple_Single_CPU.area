@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : Simple_Single_CPU
+Version: Q-2019.12
+Date   : Sat Nov 21 12:29:13 2020
+****************************************
+
+Library(s) Used:
+
+    slow (File: /cad/CBDK/CBDK_IC_Contest_v2.1/SynopsysDC/db/slow.db)
+
+Number of ports:                         1861
+Number of nets:                         16425
+Number of cells:                        14527
+Number of combinational cells:          12350
+Number of sequential cells:              2080
+Number of macros/black boxes:               0
+Number of buf/inv:                       1490
+Number of references:                      17
+
+Combinational area:             109685.989340
+Buf/Inv area:                     9009.799059
+Noncombinational area:           60126.999500
+Macro/Black Box area:                0.000000
+Net Interconnect area:         2237537.921722
+
+Total cell area:                169812.988841
+Total area:                    2407350.910563
+1
